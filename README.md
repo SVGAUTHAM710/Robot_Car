@@ -10,8 +10,7 @@ This Arduino project enables you to control a robot using voice commands and an 
 - [Functionality](#functionality)
 - [How to Use](#how-to-use)
 - [Author](#author)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Hardware Requirements
 
